@@ -1,13 +1,13 @@
-## Jay Richards
+# Jay Richards
 Lorem ipsum
 
-# Skills
+## Skills
 Lorem ipsum
 
-# Featured Projects
+## Featured Projects
 Lorem ipsum (mention veriety of projects showing proficiency in React, Tailwind, and JavaScript
 
-# Contact Links
+## Contact Links
 LinkedIn: Lorem
 Email: Ipsum
 
