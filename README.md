@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="pfp2-square.jpg" alt="Profile Picture" style="width: 150px; height:150px; border-radius:50%;" />
+  <img src="pfp-circle.png" alt="Profile Picture" style="width: 150px; height:150px;" />
 </p>
 
 <h1 align="center">Hi, I'm Jay Richards</h1>
