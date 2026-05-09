@@ -9,14 +9,14 @@
 ---
 
 <div align="center">
-<a href="YOUR_GITHUB_LINK_HERE"><h2>View My GitHub Portfolio</h2></a>
+<a href="https://github.com/ReflectionGolden?tab=repositories"><h2>View My GitHub Portfolio</h2></a>
 </div>
 
 ---
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm a passionate Full Stack Developer with experience building responsive web applications using modern technologies. I love working on projects that solve real-world problems, optimizing code, and continuously learning new tools and frameworks.  
+A Junior Software Engineer and Platform Engineer with hands-on experience in cloud infrastructure, systems development, and full-stack programming within enterprise environments. Holds a Level 4 Software Developer Apprenticeship and industry certifications in AWS Certified Cloud Practitioner and Microsoft Azure Fundamentals. Skilled in Python, C, C#, Java, JavaScript, React.js, HTML, and Terraform, with practical experience across AWS (EC2, S3, IAM, RDS, CloudWatch) and Azure (Azure AD, RBAC, Key Vault, Sentinel). Strong understanding of cloud architecture, infrastructure as code, and modern software engineering practices.
 </p>
 
 ---
@@ -29,7 +29,6 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 ### Backend
@@ -37,14 +36,11 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
 ### Databases
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ### Tools & Platforms
@@ -60,30 +56,29 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/Darrenvandervelde" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/ReflectionGolden" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=default" alt="GitHub Streak" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReflectionGolden&theme=default" alt="GitHub Streak" width="40%">
 </div>
 
 ---
 
 ## Currently Working On
 <ul>
-  <li>Full Stack React + Node.js Project</li>
   <li>Portfolio Website Revamp</li>
-  <li>Learning TypeScript & Next.js</li>
+  <li>Learning SQL</li>
 </ul>
 
 ---
 
 ## Connect With Me
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/jay-richards-bb2181404/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_EMAIL_HERE">
+  <a href="reflectiongolden@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
