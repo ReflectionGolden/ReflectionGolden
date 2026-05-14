@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-<a href="https://github.com/ReflectionGolden?tab=repositories"><h2>View My GitHub Portfolio</h2></a>
+<a href="https://jr-portfolio-eosin.vercel.app/"><h2>View My Portfolio Site</h2></a>
 </div>
 
 ---
