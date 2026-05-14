@@ -76,10 +76,10 @@ A Junior Software Engineer and Platform Engineer with hands-on experience in clo
 ## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/jay-richards-bb2181404/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
   </a>
   <a href="reflectiongolden@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
