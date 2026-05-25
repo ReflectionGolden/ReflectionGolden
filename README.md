@@ -50,6 +50,7 @@ A Junior Software Engineer and Platform Engineer with hands-on experience in clo
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"/>
   <img src="https://img.shields.io/badge/REST APIs-FF6C37?logo=postman&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
 ---
