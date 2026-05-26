@@ -69,7 +69,7 @@ A Junior Software Engineer and Platform Engineer with hands-on experience in clo
 ## Currently Working On
 <ul>
   <li>Learning MySQL</li>
-  <li>Living Dex tracker app (showcase use of API integration and for learing SQL)</li>
+  <li>Living Dex tracker app (showcase use of API integration and for learning SQL)</li>
 </ul>
 
 ---
