@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-<a href="https://jr-portfolio-eosin.vercel.app/"><h2>View My Portfolio Site</h2></a>
+<h2>View My Portfolio Site at <a>https://jr-portfolio-eosin.vercel.app/</a></h2>
 </div>
 
 ---
